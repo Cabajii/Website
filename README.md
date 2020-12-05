@@ -1,2 +1,1 @@
-# discordbotpixeldevelopmentbot
-discord bot
+# Discord Bot
